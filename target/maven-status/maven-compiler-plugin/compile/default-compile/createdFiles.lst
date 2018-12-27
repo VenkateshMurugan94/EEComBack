@@ -1,0 +1,12 @@
+Com\niit\EComBack\model\Category.class
+Com\niit\EComBack\DAO\CategoryDAO.class
+Com\niit\EComBack\DAO\UserDAO.class
+Com\niit\EComBack\DBConfig.class
+Com\niit\EComBack\DAO\ProductDAO.class
+Com\niit\EComBack\DAO\ProductDAOImp.class
+Com\niit\EComBack\model\Product.class
+Com\niit\EComBack\model\UserCredential.class
+Com\niit\EComBack\App.class
+Com\niit\EComBack\DAO\CategoryDAOImp.class
+Com\niit\EComBack\DAO\UserDAOImp.class
+Com\niit\EComBack\model\UserDetail.class
